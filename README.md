@@ -1,2 +1,2 @@
-# Python-Project
-Python project for fiverr
+This is example work for fiverr
+This program translates RGB into HEX
